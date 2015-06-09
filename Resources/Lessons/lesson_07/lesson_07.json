@@ -1,0 +1,115 @@
+{
+    "lesson": {
+        "lessonId": "7",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "coat",
+                "picture": "coat.jpg",
+                "word_sound": "coat.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "c",
+                        "soundFileName": "5.mp3",
+                        "charFileName": "c_lower.png"
+                    },
+                    {
+                        "soundChar": "oa",
+                        "soundFileName": "35.mp3",
+                        "charFileName": "oa_lower.png"
+                    },
+                    {
+                        "soundChar": "t",
+                        "soundFileName": "3.mp3",
+                        "charFileName": "t_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "2",
+                "word": "vest",
+                "picture": "vest.jpg",
+                "word_sound": "vest.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "v",
+                        "soundFileName": "8.mp3",
+                        "charFileName": "v_lower.png"
+                    },
+                    {
+                        "soundChar": "e",
+                        "soundFileName": "26.mp3",
+                        "charFileName": "e_lower.png"
+                    },
+                    {
+                        "soundChar": "s",
+                        "soundFileName": "11.mp3",
+                        "charFileName": "s_lower.png"
+                    },
+                    {
+                        "soundChar": "t",
+                        "soundFileName": "3.mp3",
+                        "charFileName": "t_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "3",
+                "word": "hat",
+                "picture": "hat.jpg",
+                "word_sound": "hat.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "h",
+                        "soundFileName": "15.mp3",
+                        "charFileName": "h_lower.png"
+                    },
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "25.mp3",
+                        "charFileName": "a_lower.png"
+                    },
+                    {
+                        "soundChar": "t",
+                        "soundFileName": "3.mp3",
+                        "charFileName": "t_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "4",
+                "word": "shoe",
+                "picture": "shoe.jpg",
+                "word_sound": "shoe.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "sh",
+                        "soundFileName": "1.mp3",
+                        "charFileName": "sh_lower.png"
+                    },
+                    {
+                        "soundChar": "oe",
+                        "soundFileName": "36.mp3",
+                        "charFileName": "oe_lower.png"
+                    }
+                ]
+            }
+       ],
+        "statements": [
+            {
+                "statement": "The cat is running."
+            },
+            {
+                "statement": "The dog is running."
+            },
+            {
+                "statement": "The pig is running."
+            },
+            {
+                "statement": "They are all running together."
+            }
+         ],
+        "readingBGSoundFile": "little_star.mp3",
+        "readingSoundFile": "reading.mp3"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "lessons": [
+        {
+            "lessonId": "1",
+            "lessonName": "animals",
+            "lessonKorName": "동물",
+            "lessonFileName": "Lessons/lesson_01/lesson_01.json",
+            "lessonPicture": "Lessons/lessons/animal.png",
+			"lessonPictureSelected": "Lessons/lessons/animal_selected.png"			
+        },
+        {
+            "lessonId": "2",
+            "lessonName": "Sun-Moon-Star",
+            "lessonKorName": "해,달,별",
+            "lessonFileName": "Lessons/lesson_02/lesson_02.json",
+            "lessonPicture": "Lessons/lessons/sky.png",
+            "lessonPictureSelected": "Lessons/lessons/sky_selected.png"
+        },
+        {
+            "lessonId": "3",
+            "lessonName": "family",
+            "lessonKorName": "가족",
+            "lessonFileName": "Lessons/lesson_03/lesson_03.json",
+            "lessonPicture": "Lessons/lessons/family.png",
+            "lessonPictureSelected": "Lessons/lessons/family_selected.png"
+        },
+        {
+            "lessonId": "4",
+            "lessonName": "body",
+            "lessonKorName": "몸",
+            "lessonFileName": "Lessons/lesson_04/lesson_04.json",
+            "lessonPicture": "Lessons/lessons/body.png",
+            "lessonPictureSelected": "Lessons/lessons/body_selected.png"
+        },
+        {
+            "lessonId": "5",
+            "lessonName": "face",
+            "lessonKorName": "얼굴",
+            "lessonFileName": "Lessons/lesson_05/lesson_05.json",
+            "lessonPicture": "Lessons/lessons/face.png",
+            "lessonPictureSelected": "Lessons/lessons/face_selected.png"
+        },
+        {
+            "lessonId": "6",
+            "lessonName": "on the table",
+            "lessonKorName": "식탁위에",
+            "lessonFileName": "Lessons/lesson_06/lesson_06.json",
+            "lessonPicture": "Lessons/lessons/tableware.png",
+            "lessonPictureSelected": "Lessons/lessons/tableware_selected.png"
+        },
+        {
+            "lessonId": "7",
+            "lessonName": "in the closet",
+            "lessonKorName": "옷장안에",
+            "lessonFileName": "Lessons/lesson_07/lesson_07.json",
+            "lessonPicture": "Lessons/lessons/wearables.png",
+            "lessonPictureSelected": "Lessons/lessons/wearables_selected.png"
+        },
+        {
+            "lessonId": "8",
+            "lessonName": "activity",
+            "lessonKorName": "움직임",
+            "lessonFileName": "Lessons/lesson_08/lesson_08.json",
+            "lessonPicture": "Lessons/lessons/activity.png",
+            "lessonPictureSelected": "Lessons/lessons/activity_selected.png"
+        },
+        {
+            "lessonId": "9",
+            "lessonName": "nature",
+            "lessonKorName": "자연",
+            "lessonFileName": "Lessons/lesson_09/lesson_09.json",
+            "lessonPicture": "Lessons/lessons/nature.png",
+            "lessonPictureSelected": "Lessons/lessons/nature_selected.png"
+        },
+        {
+            "lessonId": "10",
+            "lessonName": "color",
+            "lessonKorName": "색깔",
+            "lessonFileName": "Lessons/lesson_10/lesson_10.json",
+            "lessonPicture": "Lessons/lessons/color.png",
+            "lessonPictureSelected": "Lessons/lessons/color_selected.png"
+        },
+        {
+            "lessonId": "11",
+            "lessonName": "kingdom",
+            "lessonKorName": "왕국",
+            "lessonFileName": "Lessons/lesson_11/lesson_11.json",
+            "lessonPicture": "Lessons/lessons/kingdom.png",
+            "lessonPictureSelected": "Lessons/lessons/kingdom_selected.png"
+        }
+    ]
+}

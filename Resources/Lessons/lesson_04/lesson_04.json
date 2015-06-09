@@ -1,0 +1,92 @@
+{
+    "lesson": {
+        "lessonId": "4",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "head",
+                "picture": "head.jpg",
+                "word_sound": "head.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "h",
+                        "soundFileName": "15.mp3",
+                        "charFileName": "h_lower.png"
+                    },
+                    {
+                        "soundChar": "ea",
+                        "soundFileName": "26.mp3",
+                        "charFileName": "ea_lower.png"
+                    },
+                    {
+                        "soundChar": "d",
+                        "soundFileName": "4.mp3",
+                        "charFileName": "d_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "2",
+                "word": "arm",
+                "picture": "arm.png",
+                "word_sound": "arm.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "32.mp3",
+                        "charFileName": "a_lower.png"
+                    },
+                    {
+                        "soundChar": "r",
+                        "soundFileName": "22.mp3",
+                        "charFileName": "r_lower.png"
+                    },
+                    {
+                        "soundChar": "m",
+                        "soundFileName": "18.mp3",
+                        "charFileName": "m_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "3",
+                "word": "leg",
+                "picture": "leg.png",
+                "word_sound": "leg.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "l",
+                        "soundFileName": "21.mp3",
+                        "charFileName": "l_lower.png"
+                    },
+                    {
+                        "soundChar": "e",
+                        "soundFileName": "26.mp3",
+                        "charFileName": "e_lower.png"
+                    },
+                    {
+                        "soundChar": "g",
+                        "soundFileName": "6.mp3",
+                        "charFileName": "g_lower.png"
+                    }
+                ]
+            }
+       ],
+        "statements": [
+            {
+                "statement": "The cat is running."
+            },
+            {
+                "statement": "The dog is running."
+            },
+            {
+                "statement": "The pig is running."
+            },
+            {
+                "statement": "They are all running together."
+            }
+         ],
+        "readingBGSoundFile": "little_star.mp3",
+        "readingSoundFile": "reading.mp3"
+    }
+}

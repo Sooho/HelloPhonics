@@ -1,0 +1,264 @@
+{
+    "sounds_alphabet": [
+        {
+            "no": "1",
+            "char": "a",
+            "upperChar": "A",
+            "ipa": "ӕ",
+            "sound_inKor": "에:에",
+            "soundFileName": "25.mp3",
+            "word": "ant",
+            "wordSoundFileName": "ant.mp3"
+        },
+        {
+            "no": "2",
+            "char": "b",
+            "upperChar": "B",
+            "ipa": "b",
+            "sound_inKor": "ㅂ",
+            "soundFileName": "2.mp3",
+            "word": "bed",
+            "wordSoundFileName": "bed.mp3"
+        },
+        {
+            "no": "3",
+            "char": "c",
+            "upperChar": "C",
+            "ipa": "k",
+            "sound_inKor": "ㅋ",
+            "soundFileName": "5.mp3",
+            "word": "cat",
+            "wordSoundFileName": "cat.mp3"
+        },
+        {
+            "no": "4",
+            "char": "d",
+            "upperChar": "D",
+            "ipa": "d",
+            "sound_inKor": "ㄷ",
+            "soundFileName": "4.mp3",
+            "word": "dog",
+            "wordSoundFileName": "dog.mp3"
+        },
+        {
+            "no": "5",
+            "char": "e",
+            "upperChar": "E",
+            "ipa": "e",
+            "sound_inKor": "애",
+            "soundFileName": "26.mp3",
+            "word": "egg",
+            "wordSoundFileName": "egg.mp3"
+        },
+        {
+            "no": "6",
+            "char": "f",
+            "upperChar": "F",
+            "ipa": "f",
+            "sound_inKor": "ㅍㅎ",
+            "soundFileName": "7.mp3",
+            "word": "fox",
+            "wordSoundFileName": "fox.mp3"
+        },
+        {
+            "no": "7",
+            "char": "g",
+            "upperChar": "G",
+            "ipa": "g",
+            "sound_inKor": "ㄱ",
+            "soundFileName": "6.mp3",
+            "word": "green",
+            "wordSoundFileName": "green.mp3"
+        },
+        {
+            "no": "8",
+            "char": "h",
+            "upperChar": "H",
+            "ipa": "h",
+            "sound_inKor": "ㅎ",
+            "soundFileName": "15.mp3",
+            "word": "hat",
+            "wordSoundFileName": "hat.mp3"
+        },
+        {
+            "no": "9",
+            "char": "i",
+            "upperChar": "I",
+            "ipa": "ɪ",
+            "sound_inKor": "이",
+            "soundFileName": "27.mp3",
+            "word": "icecreem",
+            "wordSoundFileName": "icecreem.mp3"
+        },
+        {
+            "no": "10",
+            "char": "j",
+            "upperChar": "J",
+            "ipa": "dƷ",
+            "sound_inKor": "ㅈ",
+            "soundFileName": "17.mp3",
+            "word": "jump",
+            "wordSoundFileName": "jump.mp3"
+        },
+        {
+            "no": "11",
+            "char": "k",
+            "upperChar": "K",
+            "ipa": "k",
+            "sound_inKor": "ㅋ",
+            "soundFileName": "5.mp3",
+            "word": "king",
+            "wordSoundFileName": "king.mp3"
+        },
+        {
+            "no": "12",
+            "char": "l",
+            "upperChar": "L",
+            "ipa": "l",
+            "sound_inKor": "을",
+            "soundFileName": "21.mp3",
+            "word": "leg",
+            "wordSoundFileName": "leg.mp3"
+        },
+        {
+            "no": "13",
+            "char": "m",
+            "upperChar": "M",
+            "ipa": "m",
+            "sound_inKor": "음ㅁ",
+            "soundFileName": "18.mp3",
+            "word": "moon",
+            "wordSoundFileName": "moon.mp3"
+        },
+        {
+            "no": "14",
+            "char": "n",
+            "upperChar": "N",
+            "ipa": "n",
+            "sound_inKor": "은ㄴ",
+            "soundFileName": "19.mp3",
+            "word": "nose",
+            "wordSoundFileName": "nose.mp3"
+        },
+        {
+            "no": "15",
+            "char": "o",
+            "upperChar": "O",
+            "ipa": "ɔ:",
+            "sound_inKor": "어:",
+            "soundFileName": "33.mp3",
+            "word": "fox",
+            "wordSoundFileName": "fox.mp3"
+        },
+        {
+            "no": "16",
+            "char": "p",
+            "upperChar": "P",
+            "ipa": "p",
+            "sound_inKor": "ㅍ",
+            "soundFileName": "1.mp3",
+            "word": "pig",
+            "wordSoundFileName": "pig.mp3"
+        },
+        {
+            "no": "17",
+            "char": "q",
+            "upperChar": "Q",
+            "ipa": "kw",
+            "sound_inKor": "쿠이",
+            "soundFileName": "kw.mp3",
+            "word": "queen",
+            "wordSoundFileName": "queen.mp3"
+        },
+        {
+            "no": "18",
+            "char": "r",
+            "upperChar": "R",
+            "ipa": "r",
+            "sound_inKor": "아ㄹ",
+            "soundFileName": "22.mp3",
+            "word": "red",
+            "wordSoundFileName": "red.mp3"
+        },
+        {
+            "no": "19",
+            "char": "s",
+            "upperChar": "S",
+            "ipa": "s",
+            "sound_inKor": "ㅆ",
+            "soundFileName": "11.mp3",
+            "word": "sun",
+            "wordSoundFileName": "sun.mp3"
+        },
+        {
+            "no": "20",
+            "char": "t",
+            "upperChar": "T",
+            "ipa": "t",
+            "sound_inKor": "ㅌ",
+            "soundFileName": "3.mp3",
+            "word": "tree",
+            "wordSoundFileName": "tree.mp3"
+        },
+        {
+            "no": "21",
+            "char": "u",
+            "upperChar": "U",
+            "ipa": "ʌ",
+            "sound_inKor": "어",
+            "soundFileName": "28.mp3",
+            "word": "cup",
+            "wordSoundFileName": "cup.mp3"
+        },
+        {
+            "no": "22",
+            "char": "v",
+            "upperChar": "V",
+            "ipa": "v",
+            "sound_inKor": "ㅂㅎ",
+            "soundFileName": "8.mp3",
+            "word": "vase",
+            "wordSoundFileName": "vase.mp3"
+        },
+        {
+            "no": "23",
+            "char": "w",
+            "upperChar": "W",
+            "ipa": "w",
+            "sound_inKor": "우워",
+            "soundFileName": "24.mp3",
+            "word": "wind",
+            "wordSoundFileName": "wind.mp3"
+        },
+        {
+            "no": "24",
+            "char": "x",
+            "upperChar": "X",
+            "ipa": "ks",
+            "sound_inKor": "크스",
+            "soundFileName": "ks.mp3",
+            "word": "fox",
+            "wordSoundFileName": "fox.mp3"
+        },
+        {
+            "no": "25",
+            "char": "y",
+            "upperChar": "Y",
+            "ipa": "j",
+            "sound_inKor": "이여",
+            "soundFileName": "23.mp3",
+            "word": "yellow",
+            "wordSoundFileName": "yellow.mp3"
+        },
+        {
+            "no": "26",
+            "char": "z",
+            "upperChar": "Z",
+            "ipa": "z",
+            "sound_inKor": "ㅈㅈㅈㅈㅈ",
+            "soundFileName": "12.mp3",
+            "word": "zebra",
+            "wordSoundFileName": "zebra.mp3"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "lesson": {
+        "lessonId": "6",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "cup",
+                "picture": "cup.jpg",
+                "word_sound": "cup.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "c",
+                        "soundFileName": "5.mp3",
+                        "charFileName": "c_lower.png"
+                    },
+                    {
+                        "soundChar": "u",
+                        "soundFileName": "28.mp3",
+                        "charFileName": "u_lower.png"
+                    },
+                    {
+                        "soundChar": "p",
+                        "soundFileName": "1.mp3",
+                        "charFileName": "p_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "2",
+                "word": "bowl",
+                "picture": "bowl.png",
+                "word_sound": "bowl.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "b",
+                        "soundFileName": "2.mp3",
+                        "charFileName": "b_lower.png"
+                    },
+                    {
+                        "soundChar": "ow",
+                        "soundFileName": "35.mp3",
+                        "charFileName": "ow_lower.png"
+                    },
+                    {
+                        "soundChar": "l",
+                        "soundFileName": "21.mp3",
+                        "charFileName": "l_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "3",
+                "word": "dish",
+                "picture": "dish.jpg",
+                "word_sound": "dish.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "d",
+                        "soundFileName": "4.mp3",
+                        "charFileName": "d_lower.png"
+                    },
+                    {
+                        "soundChar": "i",
+                        "soundFileName": "27.mp3",
+                        "charFileName": "i_lower.png"
+                    },
+                    {
+                        "soundChar": "sh",
+                        "soundFileName": "13.mp3",
+                        "charFileName": "sh_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "4",
+                "word": "vase",
+                "picture": "vase.jpg",
+                "word_sound": "vase.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "v",
+                        "soundFileName": "8.mp3",
+                        "charFileName": "v_lower.png"
+                    },
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "31.mp3",
+                        "charFileName": "a_lower.png"
+                    },
+                    {
+                        "soundChar": "se",
+                        "soundFileName": "11.mp3",
+                        "charFileName": "se_lower.png"
+                    }
+                ]
+            }
+       ],
+        "statements": [
+            {
+                "statement": "The cat is running."
+            },
+            {
+                "statement": "The dog is running."
+            },
+            {
+                "statement": "The pig is running."
+            },
+            {
+                "statement": "They are all running together."
+            }
+         ],
+        "readingBGSoundFile": "little_star.mp3",
+        "readingSoundFile": "reading.mp3"
+    }
+}

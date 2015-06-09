@@ -1,0 +1,97 @@
+{
+    "lesson": {
+        "lessonId": "3",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "dad",
+                "picture": "dad.png",
+                "word_sound": "dad.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "d",
+                        "soundFileName": "4.mp3",
+						"charFileName": "d_lower.png"
+                    },
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "25.mp3",
+						"charFileName": "a_lower.png"
+                    },
+                    {
+                        "soundChar": "d",
+                        "soundFileName": "4.mp3",
+						"charFileName": "d_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "2",
+                "word": "mom",
+                "picture": "mom.png",
+                "word_sound": "mom.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "m",
+                        "soundFileName": "18.mp3",
+						"charFileName": "m_lower.png"
+                    },
+                    {
+                        "soundChar": "o",
+                        "soundFileName": "32.mp3",
+						"charFileName": "o_lower.png"
+                    },
+                    {
+                        "soundChar": "m",
+                        "soundFileName": "18.mp3",
+						"charFileName": "m_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "3",
+                "word": "baby",
+                "picture": "baby.png",
+                "word_sound": "baby.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "b",
+                        "soundFileName": "2.mp3",
+						"charFileName": "b_lower.png"
+                    },
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "31.mp3",
+						"charFileName": "a_lower.png"
+                    },
+                    {
+                        "soundChar": "b",
+                        "soundFileName": "2.mp3",
+						"charFileName": "b_lower.png"
+                    },
+                    {
+                        "soundChar": "y",
+                        "soundFileName": "34.mp3",
+						"charFileName": "y_lower.png"
+                    }
+                ]
+            }
+        ],
+        "statements": [
+            {
+                "statement": "The sun is smiling."
+            },
+            {
+                "statement": "The moon is smiling."
+            },
+            {
+                "statement": "The star is smiling."
+            },
+            {
+                "statement": "They are all smiling together."
+            }
+        ],
+        "readingBGSoundFile": "little_star.mp3",
+        "readingSoundFile": "reading.mp3"
+    }
+}

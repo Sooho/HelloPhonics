@@ -1,0 +1,148 @@
+{
+    "lesson": {
+        "lessonId": "1",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "cat",
+                "picture": "cat.png",
+                "word_sound": "cat.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "c",
+                        "soundFileName": "5.mp3",
+                        "charFileName": "c_lower.png"
+                    },
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "25.mp3",
+                        "charFileName": "a_lower.png"
+                    },
+                    {
+                        "soundChar": "t",
+                        "soundFileName": "3.mp3",
+                        "charFileName": "t_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "2",
+                "word": "dog",
+                "picture": "dog.jpg",
+                "word_sound": "dog.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "d",
+                        "soundFileName": "4.mp3",
+                        "charFileName": "d_lower.png"
+                    },
+                    {
+                        "soundChar": "o",
+                        "soundFileName": "33.mp3",
+                        "charFileName": "o_lower.png"
+                    },
+                    {
+                        "soundChar": "g",
+                        "soundFileName": "6.mp3",
+                        "charFileName": "g_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "3",
+                "word": "pig",
+                "picture": "pig.png",
+                "word_sound": "pig.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "p",
+                        "soundFileName": "1.mp3",
+                        "charFileName": "p_lower.png"
+                    },
+                    {
+                        "soundChar": "i",
+                        "soundFileName": "27.mp3",
+                        "charFileName": "i_lower.png"
+                    },
+                    {
+                        "soundChar": "g",
+                        "soundFileName": "6.mp3",
+                        "charFileName": "g_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "4",
+                "word": "fox",
+                "picture": "fox.png",
+                "word_sound": "fox.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "f",
+                        "soundFileName": "7.mp3",
+                        "charFileName": "f_lower.png"
+                    },
+                    {
+                        "soundChar": "o",
+                        "soundFileName": "32.mp3",
+                        "charFileName": "o_lower.png"
+                    },
+                    {
+                        "soundChar": "x",
+                        "soundFileName": "ks_sound.mp3",
+                        "charFileName": "x_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "5",
+                "word": "zebra",
+                "picture": "zebra.png",
+                "word_sound": "zebra.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "z",
+                        "soundFileName": "12.mp3",
+                        "charFileName": "z_lower.png"
+                    },
+                    {
+                        "soundChar": "e",
+                        "soundFileName": "26.mp3",
+                        "charFileName": "e_lower.png"
+                    },
+                    {
+                        "soundChar": "b",
+                        "soundFileName": "2.mp3",
+                        "charFileName": "b_lower.png"
+                    },
+                    {
+                        "soundChar": "r",
+                        "soundFileName": "22.mp3",
+                        "charFileName": "r_lower.png"
+                    },
+                    {
+                        "soundChar": "a",
+                        "soundFileName": "29.mp3",
+                        "charFileName": "a_lower.png"
+                    }
+                ]
+            }
+        ],
+        "statements": [
+            {
+                "statement": "The cat is running."
+            },
+            {
+                "statement": "The dog is running."
+            },
+            {
+                "statement": "The pig is running."
+            },
+            {
+                "statement": "They are all running together."
+            }
+        ],
+        "readingBGSoundFile": "little_star.mp3",
+        "readingSoundFile": "reading.mp3"
+    }
+}

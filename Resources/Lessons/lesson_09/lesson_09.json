@@ -1,0 +1,138 @@
+{
+    "lesson": {
+        "lessonId": "9",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "sky",
+                "picture": "sky.png",
+                "word_sound": "sky.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "s",
+                        "soundFileName": "11.mp3",
+                        "charFileName": "s_lower.png"
+                    },
+                    {
+                        "soundChar": "k",
+                        "soundFileName": "5.mp3",
+                        "charFileName": "k_lower.png"
+                    },
+                    {
+                        "soundChar": "y",
+                        "soundFileName": "37.mp3",
+                        "charFileName": "y_lower.png"
+                    }
+                ]
+            },
+            {
+                "wordId": "2",
+                "word": "sea",
+                "picture": "sea.png",
+                "word_sound": "sea.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "s",
+                        "soundFileName": "11.mp3",
+                        "charFileName": "s_lower.png"
+                    },
+                    {
+                        "soundChar": "ea",
+                        "soundFileName": "34.mp3",
+                        "charFileName": "ea_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "3",
+                "word": "tree",
+                "picture": "tree.png",
+                "word_sound": "tree.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "t",
+                        "soundFileName": "3.mp3",
+                        "charFileName": "t_lower.png"
+                    },
+                    {
+                        "soundChar": "r",
+                        "soundFileName": "22.mp3",
+                        "charFileName": "r_lower.png"
+                    },
+                    {
+                        "soundChar": "ee",
+                        "soundFileName": "34.mp3",
+                        "charFileName": "ee_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "4",
+                "word": "wind",
+                "picture": "wind.jpg",
+                "word_sound": "wind.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "w",
+                        "soundFileName": "24.mp3",
+                        "charFileName": "w_lower.png"
+                    },
+                    {
+                        "soundChar": "i",
+                        "soundFileName": "27.mp3",
+                        "charFileName": "i_lower.png"
+                    },
+                    {
+                        "soundChar": "n",
+                        "soundFileName": "19.mp3",
+                        "charFileName": "n_lower.png"
+                    },
+                    {
+                        "soundChar": "d",
+                        "soundFileName": "4.mp3",
+                        "charFileName": "d_lower.png"
+                    }
+                ]
+            },
+			{
+                "wordId": "5",
+                "word": "hill",
+                "picture": "hill.jpg",
+                "word_sound": "hill.mp3",
+                "sounds": [
+                    {
+                        "soundChar": "h",
+                        "soundFileName": "15.mp3",
+                        "charFileName": "h_lower.png"
+                    },
+                    {
+                        "soundChar": "i",
+                        "soundFileName": "27.mp3",
+                        "charFileName": "i_lower.png"
+                    },
+                    {
+                        "soundChar": "ll",
+                        "soundFileName": "21.mp3",
+                        "charFileName": "ll_lower.png"
+                    }
+                ]
+            }
+       ],
+        "statements": [
+            {
+                "statement": "The cat is running."
+            },
+            {
+                "statement": "The dog is running."
+            },
+            {
+                "statement": "The pig is running."
+            },
+            {
+                "statement": "They are all running together."
+            }
+         ],
+        "readingBGSoundFile": "little_star.mp3",
+        "readingSoundFile": "reading.mp3"
+    }
+}
